@@ -1,7 +1,6 @@
 # Ajokilometrit
 
-
-Expolla toteutettuna sovellus toimii Androidilla ja iOS.llä, mutta tähän mennessä sovellusta on testattu vain Androidilla.
+Tämä on Expolla toteutettu sovellus ajokilometrien keräämiseen. Projektin tarkoitus on harjoitella kännykkäsovelluksien ohjelmointia. Expolla toteutettuna sovellus toimii Androidilla ja iOS:llä, mutta tähän mennessä sovellusta on testattu vain Androidilla.
 
 ## Tietomallit
 
